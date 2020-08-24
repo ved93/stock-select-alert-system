@@ -57,7 +57,7 @@ import re
 import unidecode #used to convert accented words
 
 
-# df = pd.read_csv('tickers.csv')
+df = pd.read_csv('tickers.csv')
 
 stocks_list = ['CRISIL.NS','GODREJCP.NS','MARICO.NS','HDFCBANK.NS', 'INDUSINDBK.NS']
 
