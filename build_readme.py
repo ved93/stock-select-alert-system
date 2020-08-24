@@ -54,7 +54,7 @@ import re
 # import mysql.connector as sql
 # import DBcm
 # import time
-import unidecode #used to convert accented words
+# import unidecode #used to convert accented words
 
 
 df = pd.read_csv('tickers.csv')
