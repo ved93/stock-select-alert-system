@@ -59,6 +59,8 @@ import re
 
 # df = pd.read_csv('tickers.csv')
 
+#https://github.com/amitness/auto-investment
+
 stocks_list = ['CRISIL.NS','GODREJCP.NS','MARICO.NS','HDFCBANK.NS', 'INDUSINDBK.NS']
 
 for stock in stocks_list:
